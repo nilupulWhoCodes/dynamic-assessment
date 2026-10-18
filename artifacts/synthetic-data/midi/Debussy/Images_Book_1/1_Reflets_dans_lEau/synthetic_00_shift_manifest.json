@@ -1,0 +1,302 @@
+{
+ "piece": "Debussy/Images_Book_1/1_Reflets_dans_lEau",
+ "mode": "shift",
+ "seed": 14542,
+ "changes": [
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ppp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ppp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ppp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "ppp",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "mf",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ppp"
+  },
+  {
+   "type": "constant",
+   "from": "mf",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ppp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ppp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ppp"
+  },
+  {
+   "type": "constant",
+   "from": "ppp",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ppp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ppp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "ppp",
+   "to": "pp"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  }
+ ]
+}

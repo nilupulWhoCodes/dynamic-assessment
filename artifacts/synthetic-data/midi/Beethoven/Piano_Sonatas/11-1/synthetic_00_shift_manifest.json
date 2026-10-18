@@ -1,0 +1,277 @@
+{
+ "piece": "Beethoven/Piano_Sonatas/11-1",
+ "mode": "shift",
+ "seed": 6242,
+ "changes": [
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ppp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ppp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ppp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "fff"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "fff"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "fff"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ppp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ppp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "fff"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ppp"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "fff"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "fff"
+  }
+ ]
+}

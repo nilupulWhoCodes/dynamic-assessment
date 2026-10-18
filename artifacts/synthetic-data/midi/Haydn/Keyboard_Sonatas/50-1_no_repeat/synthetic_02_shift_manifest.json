@@ -1,0 +1,227 @@
+{
+ "piece": "Haydn/Keyboard_Sonatas/50-1_no_repeat",
+ "mode": "shift",
+ "seed": 15144,
+ "changes": [
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "fff"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ppp"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  }
+ ]
+}

@@ -1,0 +1,302 @@
+{
+ "piece": "Beethoven/Piano_Sonatas/18-1",
+ "mode": "invert",
+ "seed": 7443,
+ "changes": [
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  }
+ ]
+}

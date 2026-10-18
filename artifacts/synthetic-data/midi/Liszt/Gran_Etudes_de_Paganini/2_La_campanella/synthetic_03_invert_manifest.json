@@ -1,0 +1,182 @@
+{
+ "piece": "Liszt/Gran_Etudes_de_Paganini/2_La_campanella",
+ "mode": "invert",
+ "seed": 15345,
+ "changes": [
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "mf",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "pp"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  }
+ ]
+}

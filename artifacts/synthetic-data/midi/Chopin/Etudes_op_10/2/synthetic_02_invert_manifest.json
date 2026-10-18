@@ -1,0 +1,147 @@
+{
+ "piece": "Chopin/Etudes_op_10/2",
+ "mode": "invert",
+ "seed": 12144,
+ "changes": [
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "piece": "Haydn/Keyboard_Sonatas/32-1",
+ "mode": "shift",
+ "seed": 14742,
+ "changes": [
+  {
+   "type": "constant",
+   "from": "mf",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "mf",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ppp"
+  },
+  {
+   "type": "constant",
+   "from": "mf",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "mf",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "mf",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "mf",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "mf",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "mp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  }
+ ]
+}

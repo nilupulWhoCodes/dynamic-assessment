@@ -1,0 +1,57 @@
+{
+ "piece": "Chopin/Ballades/3",
+ "mode": "shift",
+ "seed": 11542,
+ "changes": [
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "fff"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "fff"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "piece": "Chopin/Etudes_op_25/12",
+ "mode": "shift",
+ "seed": 13042,
+ "changes": [
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "mf"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "mf",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "fff",
+   "to": "ff"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  }
+ ]
+}

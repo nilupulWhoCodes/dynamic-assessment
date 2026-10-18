@@ -1,0 +1,6 @@
+.venv/
+data/
+fyp_try2/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc

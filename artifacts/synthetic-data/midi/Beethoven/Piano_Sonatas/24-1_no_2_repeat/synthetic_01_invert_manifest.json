@@ -1,0 +1,302 @@
+{
+ "piece": "Beethoven/Piano_Sonatas/24-1_no_2_repeat",
+ "mode": "invert",
+ "seed": 8543,
+ "changes": [
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "pp",
+   "to": "ff"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "ff",
+   "to": "pp"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "p",
+   "to": "f"
+  },
+  {
+   "type": "constant",
+   "from": "f",
+   "to": "p"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "crescendo",
+   "to": "diminuendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  },
+  {
+   "type": "wedge",
+   "from": "diminuendo",
+   "to": "crescendo"
+  }
+ ]
+}
